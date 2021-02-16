@@ -144,7 +144,7 @@
     <ClInclude Include="bitvise.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="enc_dec_generator.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
